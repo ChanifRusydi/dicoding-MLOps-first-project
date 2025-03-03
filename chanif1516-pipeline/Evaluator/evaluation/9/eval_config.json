@@ -28,6 +28,6 @@
   "dataLocation": "<user provided PCollection>",
   "fileFormat": "<unknown>",
   "modelLocations": {
-    "": "chanif1516-pipeline/Trainer/model/7/Format-Serving"
+    "": "chanif1516-pipeline/Trainer/model/9/Format-Serving"
   }
 }
